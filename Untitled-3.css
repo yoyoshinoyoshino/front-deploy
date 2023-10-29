@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	width: 100%;
+	margin: 0%;
+	background: #97696A;
+	color: brown;
+	font-size: 25px;
+	
+		
+}
+h1,p{
+	
+}
+.contaner{
+	
+}
+input,select{
+	background-color: #189162;
+	width: 100%;
+	min-height: 3em;
+	border: #E1B90E;
+		
+}
